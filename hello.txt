@@ -13,3 +13,9 @@ i need you   hey hey
 
 我在master分支 没错 我现在不在master分支了 我来到了hot-fix分支了
 
+
+
+
+
+
+分支合并之后 我属于master分支 更新 同属分支合并后第二个版本
